@@ -1,0 +1,6 @@
+npm install -D ts-loader webpack webpack-cli webpack-dev-server html-webpack-plugin
+npm install react react-dom
+npm install -D @types/react @types/react-dom
+npm install @vscode/webview-ui-toolkit
+npm install -D @types/vscode-webview
+
